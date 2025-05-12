@@ -1,0 +1,1 @@
+- [[Shuushar the Awakened]]'s hometown...a town full of Kuo-toas. 

@@ -6,5 +6,5 @@ description: ""
 location: ""
 deceased: 
 ---
-- sister of [[Lurris Dreambow]]
+- sister of [[Lurrus Dreambow]]
 - member of the [[Society of Brilliance]]

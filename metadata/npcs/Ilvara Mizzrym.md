@@ -1,0 +1,5 @@
+The commander of Velkynvelve is an ambitious drow priestess looking to rise in the esteem of Lolth and her house. She considers command of a mere outpost a stepping stone in her ascension. The posting is beneath her, and she treats both it and her prisoners with contempt. But she also knows the posting is temporary, and she intends to wring every advantage from it in the meantime.
+
+A member of a drow house with a long history as slavers, Ilvara is a cruel mistress who enjoys taunting and tormenting enemies and underlings alike. In addition to a scourge, she wields a [tentacle rod](https://www.dndbeyond.com/magic-items/5408-tentacle-rod) -- [[tentacle rod]]. Although she has taken Shoor Vandree as her lover, Ilvara cares no more about him than she did about Jorlan Duskryn, the lover she discarded due to his crippling injuries.
+
+![[ooa01-12.png]]

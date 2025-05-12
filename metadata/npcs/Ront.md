@@ -1,0 +1,3 @@
+A male [orc](https://www.dndbeyond.com/monsters/16972-orc) from the Iceshield tribe, Ront fled from the slaughter of a band of orcs at the hands of the dwarves, falling down a shaft and wandering in the Underdark before being captured by the drow. He’s ashamed of his cowardly act and knows that Gruumsh, the god of the orcs, is punishing him. But he also doesn’t want to die, or at least not in drow captivity. Ront is mean, stupid, and hateful, but he also knuckles under to authority and threats. He especially hates Eldeth, as his tribe is at war with her people.
+
+Ront engages in threatening behavior and bullying toward the other prisoners unless someone stands up to him.

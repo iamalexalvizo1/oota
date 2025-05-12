@@ -1,0 +1,1 @@
+![[Barlgura-5e.webp]]
