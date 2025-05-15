@@ -207,3 +207,96 @@ Rest.
 
 ### Session 4 
 
+The group all have violent dreams...images of yellow eyes...the words "deep father" and "[[Demogorgon]]" are heard....
+
+[[Lurrus Dreambow]], while on watch duty, takes the time to investigate [[Sarith Kzekarit]] a bit...and the rash he had been complaining about seems to be growing. He also hears [[Sarith Kzekarit]] whisper in his dream 
+
+> I have to get to [[Zuggtmoy]]...
+
+While on their hike through the Underdark, [[Shuushar the Awakened]] explains how the inhabitants of [[Sloobludop]] are split between worshiping "the deep father" and "Sea Mother". [[Shuushar the Awakened]] seems to be against the violent actions of those that worship the deep father. 
+
+Along the way, the party comes across a group of injured humans running from danger. They were recently looking for a "lost tomb" and lost half their party to a group of [[Gnoll]]s. 
+
+The group is suddenly attacked by a swarm of insects [[Giant Spider]]s. [[Zebu]] is downed and [[Erxus]] is taken by the spiders...though just barely, the party manages to survive. 
+
+>[!info] Urimos Freezes
+>Out of nowhere...as if driven by insanity, [[Urimos Tusk]] seems to have become immobile for a bit. 
+
+[[Lurrus Dreambow]] questions [[Sarith Kzekarit]] on what/who [[Zuggtmoy]] is...to which [[Sarith Kzekarit]] doesn't know (he is being truthful as far as we know). 
+
+There is a large expedition of Dwarves on their way to [[Gauntlgrym]] in which [[Eldeth Feldrun]] also ends up joining...leaving the party for now. 
+
+There is a brief encounter with a [[Succubus]]. 
+
+There is also an encounter with some renegade drows kicked from [[Menzoberranzan]]. [[Lurrus Dreambow]] takes the time to chat with them about [[Sarith Kzekarit]] and comes to learn that his name has been tarnished. He also asks if they know about his sister, [[Belinda Tremorbow]]...to which they point him to [[Menzoberranzan]]. 
+
+After some time, there another dangerous encounter with 2 [[Grell]]s. They manage to down [[Sarith Kzekarit]], [[Zebu]], and [[Urimos Tusk]]. Eventually, [[Lurrus Dreambow]] destroys both and the team levels up. 
+
+### Session 5
+
+Mostly tired from the previous fight, our players hang around a bit, exploring the area. Mostly taking the time to learn about some mushrooms that grow around here...
+
+![[uzv48ffbf7461.jpg]]
+
+At some point during their travel...there are drow following them. After some quick thinking [[Sarith Kzekarit]] blows up the narrow path they were on to obstruct and slow down their advancement. [[Ilvara Mizzrym]]'s screams can be heard over the rumble. 
+
+During their travel, the group accident falls into a lava pit and battle a couple of [[fire beetle]]s. Later on, they find a group of [[Gnoll]]s and a couple of dwarves...the dwarves come out victorious in this battle. The group realize they are also escapees from [[Velkynvelve]]. 
+
+Finally, there is a long rest at the end of their travels and the group levels up...
+
+A couple of [[Stirges]] attack the party and try to fly off with [[Zebu]], luckily, the party is able to fight them off and [[Lurrus Dreambow]] rescues [[Zebu]]. 
+
+[[Shuushar the Awakened]] starts to share a bit more about his home...considering the group is about a day and a half away from arriving. They learn of the Archpriest, his faction, his daughter, and her faction - followers of the "Deep Father". The next morning, the party is ambushed by 8 [[Kuo-Toa]] and a [[Kuo-Toa Monitor]], wearing symbols of the demogorgon. [[Zebu]] understands them talking about taking the group as slave offerings and warns [[Lurrus Dreambow]]...prompting him to fire an arrow at the monitor. 
+
+![[Kuo-toa-5e.webp]]
+
+### Session 6
+
+The [[Kuo-Toa]] group attempts to capture the group and throw their fishing nets at the party. [[Lurrus Dreambow]] is captured. [[Zebu]] does big damage to a few of the p[[Kuo-Toa]]s. [[Urimos Tusk]] cuts [[Lurrus Dreambow]] lose. 
+
+After defeating them, the party interrogates them. They dont say much other than chanting _Leemooggogon_ over and over. They seem to be followers of the priestess, [[Bloppblippodd]] and the "Deep Father". The group kills them and goes into town. 
+
+![[ooa03-01.png]]
+
+The party meets the archpriest [[Poopploopeen]] along with some other [[Kuo-Toa]]s and the party explains what happened outside of town. They offer help but in exchange, they ask us to help overthrow his daughters cult. The party says they will need the day to think about stuff. Meanwhile, they learn a bit more about their lifestyle, the [[Dark Lake]] and how its filled with monsters. [[Zebu]] also recalls information about the [[Duergar]], underdark dwarves. 
+
+They go... around town learning some more stuff, puking at the statue of the "Sea Mother" (out of respect). [[Zebu]] talks a bit more about the [[Thunder Daddy]]. 
+
+> A nine-foot-tall statue stands here. Its body is roughly carved from some kind of wood in the shape of a humanoid female, its head and forearms formed from the severed head and claws of a giant albino crayfish. These parts are lashed on with strands of gut, and emit an overpowering stench of rotting shellfish. Shells, brightly colored stones, mushrooms, and rotting fish are piled at the statue’s feet and strung in garlands around its neck. Four stern kuo-toa slowly circle the statue, alert and on guard, while a few others mill about, gazing up at the statue and bowing repeatedly while chanting.
+
+When they sleep, the party's dreams are filled with blood...The next day, the party makes up their mind to help the archpriest...so they come up with a plan to go as prisoners. 
+
+![[ooa03-04.png]]
+
+Finally at the Deep Father altar, there are many [[Kuo-Toa]]s bowing and "being weird". Priestess comes out and receives us as sacrifices. A [[Duergar]] named [[Hemeth]] is also going to be sacrificed. During a speech by the Priestess, the party breaks free and start attacking the [[Kuo-Toa]]s. As the battle intensifies...there are loud rumbles and trembles...until the [[Demogorgon]] comes out of the water and starts to destroy everything in its path. A lot of the [[Kuo-Toa]]s die, with their heads exploding, including [[Shuushar the Awakened]]. [[Hemeth]] offers to help by getting a boat ready to escape. The party tries to collect supplies before ascaping. [[Urimos Tusk]] gets caught by debris, but is able to get out. The party escapes through the south dock.
+
+![[ooa03-05.png]]
+
+> He will Rule the Underdark
+
+is heard by everyone through the [[Demogorgon]]. Eventually, after much destruction and death, the party narrowly escapes while watching the [[Demogorgon]] lay waste to [[Sloobludop]]. 
+
+### Session 7
+
+They are on a boat...in the middle of the [[Dark Lake]]...still trying to comprehend what happened in [[Sloobludop]]. 
+
+They are on their way to [[Gracklstugh]], luckily, [[Hemeth]] knows the way. Another boats starts to get closer and before the party gets a chance to react, [[Asha Vandree]] starts attacking them. [[Zebu]] is able to shatter their boat but [[Asha Vandree]] is able to walk on water while the drow try to manage. 
+
+Just as things were getting heated...there is a third boat, but this one is friendly. It is carrying [[Grumpy]] and someone named [[Fargas Rumblefoot]]. 
+
+With everyones help, they take care of the drow on the boat. The group's boat is damaged during combat but [[Urimos Tusk]] is able to mend it during battle. [[Lurrus Dreambow]] eventually knocks out [[Asha Vandree]]. A drow caster is able to fly away and [[Asha Vandree]] is held hostage. A [[Ring of Walk on Water]] is found on [[Asha Vandree]] and [[Grumpy]] holds onto it.
+
+The group stops at a nearby piece of land and get to learn how [[Grumpy]] and [[Fargas Rumblefoot]] meet. [[Fargas Rumblefoot]] ran into trouble while looking for _The Lost Tomb of Khaem_. [[Hemeth]] is an arms dealer. 
+
+The party learns of _Brysis of Khaem_, a female wizard from [[Netherl]] - an ancient, floating city. It crashed into the underdark centuries ago when [[Netherl]] was destroyed. 
+
+[[Zebu]] tries to get information out of [[Asha Vandree]] but she doesn't seem to know anything. 
+
+[[Lurrus Dreambow]] tries to get information on Belinda and [[Asha Vandree]] is not caving in. [[Lurrus Dreambow]] reminds her that he is the nice one of the group...[[Zebu]] was ready to take at least 1 limb. [[Lurrus Dreambow]] and [[Grumpy]] seem to go mad...and start attacking [[Asha Vandree]]. She simply laughs and says they wont be able to resist the madness of the Underdark. 
+
+![[02-01.png]]
+
+The next day they head out and spot a [[Kuo-Toa]] on a boat. His name is [[Sloopidoop]], a member of the [[Society of Brilliance]]. No one really knows of the organization, but he seems friendly enough and provides information on [[Faerzress]]. The party informs him of what happened to [[Sloobludop]], but he simply laughs it off. 
+
+### Session 8
+
