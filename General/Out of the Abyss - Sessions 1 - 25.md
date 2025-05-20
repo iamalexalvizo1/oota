@@ -268,7 +268,11 @@ When they sleep, the party's dreams are filled with blood...The next day, the pa
 
 ![[ooa03-04.png]]
 
-Finally at the Deep Father altar, there are many [[Kuo-Toa]]s bowing and "being weird". Priestess comes out and receives us as sacrifices. A [[Duergar]] named [[Hemeth]] is also going to be sacrificed. During a speech by the Priestess, the party breaks free and start attacking the [[Kuo-Toa]]s. As the battle intensifies...there are loud rumbles and trembles...until the [[Demogorgon]] comes out of the water and starts to destroy everything in its path. A lot of the [[Kuo-Toa]]s die, with their heads exploding, including [[Shuushar the Awakened]]. [[Hemeth]] offers to help by getting a boat ready to escape. The party tries to collect supplies before ascaping. [[Urimos Tusk]] gets caught by debris, but is able to get out. The party escapes through the south dock.
+Finally at the Deep Father altar, there are many [[Kuo-Toa]]s bowing and "being weird". Priestess comes out and receives us as sacrifices. A [[Duergar]] named [[Hemeth]] is also going to be sacrificed. 
+
+![[029-ooa04-02.webp|300]]
+
+During a speech by the Priestess, the party breaks free and start attacking the [[Kuo-Toa]]s. As the battle intensifies...there are loud rumbles and trembles...until the [[Demogorgon]] comes out of the water and starts to destroy everything in its path. A lot of the [[Kuo-Toa]]s die, with their heads exploding, including [[Shuushar the Awakened]]. [[Hemeth]] offers to help by getting a boat ready to escape. The party tries to collect supplies before ascaping. [[Urimos Tusk]] gets caught by debris, but is able to get out. The party escapes through the south dock.
 
 ![[ooa03-05.png]]
 
@@ -283,6 +287,8 @@ They are on a boat...in the middle of the [[Dark Lake]]...still trying to compre
 They are on their way to [[Gracklstugh]], luckily, [[Hemeth]] knows the way. Another boats starts to get closer and before the party gets a chance to react, [[Asha Vandree]] starts attacking them. [[Zebu]] is able to shatter their boat but [[Asha Vandree]] is able to walk on water while the drow try to manage. 
 
 Just as things were getting heated...there is a third boat, but this one is friendly. It is carrying [[Grumpy]] and someone named [[Fargas Rumblefoot]]. 
+
+![[Fargas_Rumblefoot_IC.webp]]
 
 With everyones help, they take care of the drow on the boat. The group's boat is damaged during combat but [[Urimos Tusk]] is able to mend it during battle. [[Lurrus Dreambow]] eventually knocks out [[Asha Vandree]]. A drow caster is able to fly away and [[Asha Vandree]] is held hostage. A [[Ring of Walk on Water]] is found on [[Asha Vandree]] and [[Grumpy]] holds onto it.
 
@@ -299,4 +305,82 @@ The party learns of _Brysis of Khaem_, a female wizard from [[Netherl]] - an anc
 The next day they head out and spot a [[Kuo-Toa]] on a boat. His name is [[Sloopidoop]], a member of the [[Society of Brilliance]]. No one really knows of the organization, but he seems friendly enough and provides information on [[Faerzress]]. The party informs him of what happened to [[Sloobludop]], but he simply laughs it off. 
 
 ### Session 8
+
+It has been about 2 weeks since the escape from [[Velkynvelve]]. We know find ourselves evenly split between 2 boats. 
+
+>[!warning] Sarith's Rash
+>[[Lurrus Dreambow]] has been keenly observing [[Sarith Kzekarit]]'s rash and its only been getting worse. 
+
+[[Lurrus Dreambow]] talks with [[Zebu]] to see if he may know of who or what [[Zuggtmoy]] is, be he does not. During this conversation, some nightmare is triggered with [[Urimos Tusk]] and he begins to seize and simply stands there, most of the party is oblivious to it except for [[Stool]]. 
+
+[[Lurrus Dreambow]] hears the faint sound of a waterfall and everyone jumps into action to try and avoid it. [[Grumpy]] is enlarged by [[Urimos Tusk]] and puts on the [[Ring of Walk on Water]] to walk ahead and see what is going on...they are all caught off guard by a [[Merrow]]. 
+
+The [[Merrow]] throws his harpoon and catches [[Lurrus Dreambow]] and brings him into the water...but the [[tentacle rod]] comes to the rescue. After this, the group makes a stop at a nearby island that has a little hut on it. 
+
+After a series of bad rolls, [[Grumpy]] and [[Sarith Kzekarit]] are noticed by a [[Green Hag]], [[Nanny Plunk]]. 
+
+![[636252778948574879.jpeg|300]]
+
+She seems friendly enough and hands over some resources to the party. Before leaving, [[Grumpy]] shows [[Sarith Kzekarit]]'s rash to her and she simply laughs and says
+
+> You haven't seen the worst of it yet
+
+The group also decides they are taking [[Asha Vandree]] with them to [[Gracklstugh]]. 
+
+They are traveling once again...in the vast darkness of the Underdark, in the Dark Lake. [[Grumpy]] and [[Zebu]] pressure the group to interrogate and hurt [[Asha Vandree]] while [[Urimos Tusk]] and [[Lurrus Dreambow]] rather not. 
+
+>[!info] Underwater Trap!
+>There are a few underwater caves the group notices and are able to dive down and get some goodies...but not before a mimic tries to hurt them. 
+
+Eventually, the party starts to feel the heat from the metal smithing city, they ride past a statued engulfed in moss and [[Faerzress]], recognized to be [[Glitter Gold]]...
+
+There is a nearby island and the group decides to stop for a short rest. Dreams of an orange monster and a mummy go all around....
+
+The next day, when sailing, [[Urimos Tusk]] and [[Lurrus Dreambow]] hears a female voice...that no one else does...when suddenly, the boats begin to rock violently back and forth and [[Urimos Tusk]] falls into the water. An [[Aquatic Troll]] engages and quickly defeated. 
+
+The voice keeps getting stronger and stronger...and [[Lurrus Dreambow]] yells out. Doing so causes more [[Aquatic Troll]]s to spawn and defeated ones to regenerate. The party eventually tracks down the voice to behind a stone wall, which the party breaks down to reveal a hidden path. [[Zebu]] and [[Urimos Tusk]] start to feel a strong magical presence. 
+
+They come face to face with a giant bronze door. 
+
+>[!info] Wild Magic
+>Zebu is now forever blue.
+
+A stone diorama stands to the right of the entrace, depicting the sorcerer [[Brysis Khaem]] as a Netherese noble in her prime. A vista of fantastic floating cities. There is a staircase going down....
+
+Welcome to the [[Lost Tomb of Khaem]].
+
+### Session 9
+
+[[Hemeth]] stays by the boat to watch over [[Asha Vandree]] and [[Stool]]. [[Fargas Rumblefoot]] is very excited to explore the ruins. Lots of art on the wall ([[Grumpy]] notices there are many fresh scratch marks), the party lights torches and begins their descent. 
+
+The first platform has a huge large ancient calendar, [[Zebu]] is able to notice more scratches. They descend into the next level where they find a marble altar and investigating, shows deity symbols, including the [[Thunder Daddy]] and one of a gold nugget. At this time, [[Zebu]] starts to talk about his very ancient religion. 
+
+[[Urimos Tusk]] reminds us to keep a look out because we are still being pursued by drow. 
+
+One of the rooms, there is a huge sarcophagus on top of a black marble altar. [[Fargas Rumblefoot]] comes in very excited and starts to point out the jars of organs, the art on the wall, but points out that this coffin does not look grand enough for it to belong to [[Brysis Khaem]]. With some effort, the party moves to the lid...
+
+>[!danger] A booming voice...
+>"You have disturbed the tomb of Khaem!"
+
+There was no body in the coffin...just a stone effigy of Brysis. The party is also now cursed with disadvantage on attack rolls. 
+
+Next up, the party enters a room with 4 sarcophagi, each places in one corner of the room. After someone rolling a NAT 20...they notice that one of the coffins is on wheels and can be moved out of the way...all of a sudden, a [[Spectre]] emerges and the party engages. As the party engages, there is still wild magic in the air...and [[Urimos Tusk]] triggers a fireball in the room with everyone in it...this instantly kills [[Urimos Tusk]], [[Zebu]], and [[Lurrus Dreambow]]. 
+
+>[!info] Everyone has 2 lives
+>Because of the nature of the campaign, I gave everyone 2 lives before they would have to make a new character...[[Urimos Tusk]] here decided to bring most of the party down to 1 life.
+
+![[ooa02-15.png]]
+
+After coming to terms with death and short resting, the party head into the final room. 
+
+>[!danger] Another Booming Voice
+>Your death will help me escape from this prison...
+
+A black, smoky [[Wraith]] appears. After a tough battle, the party collects their treasure including the legendary [[Dawnbringer]]. 
+
+The party is now level 4. 
+
+### Session 10
+
+
 
