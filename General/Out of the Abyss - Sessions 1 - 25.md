@@ -432,3 +432,66 @@ Back at the bar...[[Gartokkar Xundorn]] awaits the party...
 
 ### Session 11
 
+We open up in [[The Ghohlbrorn's Lair]] where [[Gartokkar Xundorn]] and the party are talking. He asks the party to visit him at [[Themberchaid's Cavern]]. He believes the [[Gray Ghosts]] are behind the madness taking over the city. 
+
+At some point, the party notices [[Sarith Kzekarit]] is missing. The party also comes across the [[Hall of Sacred Scrolls]] that has a magical door, in which they are never able to access. A [[Derro]] belonging to the [[Council of Sevants]] approaches them that they should leave and then disappears. 
+
+While traveling throughout the city, the party sees a group of guards hauling slaves in cages...[[Prince Derendil]] is in one of those cages, heavily beaten. Being led by [[Gorglak]]. Walk near [[Lauduguer's Furrow]]. 
+
+[[Lurrus Dreambow]] finds [[Sarith Kzekarit]] back in his room and interogates him about where he was. He shines the [[Dawnbringer]] on him and calls him useless. 
+
+Downstairs, [[Lurrus Dreambow]] meets [[Grazilaxx]], a member of the [[Society of Brilliance]]. They tell him what happened in [[Sloobludop]]. There is a long rest that happens and [[Lurrus Dreambow]] gains a level of exhaustion...wakes up coughing. 
+
+The next day, after some tense negotiation, the party buys [[Prince Derendil]] for 300 gold. He breaks down crying in front of them saying everyone else is dead. [[Buppido]], [[Jimjar]], and the twins. He knocks out the moment they arrive at the inn. 
+
+Party attempts to cross the furrow and have to flash their badges, and they meet [[Stonespeaker Hgraam]]. [[Zebu]] is gifted the [[stonespeaker crystal]]. They head into [[Themberchaid's Cavern]] and come face to face with a dragon. He jokes that he will eat them and calls himself the father of the flame. 
+
+![[ooa04-06.png]]
+
+He asks the invisible guards to leave. He asks the party that he will be a friend to them if they were to report to him before anyone else on anything the keepers of the flame might ask of them to do. The party attempts to question him but he is immediately irritated. 
+
+The keepers of the flame mention that an egg has been stolen by the [[Gray Ghosts]]. [[Themberchaud]] was supposed to be replaced by this egg at some point. They tasked us to find [[Droki]] and the egg. 
+
+As they head into the ghetto...battles ensues, the party kill a few derro, they see [[Droki]] eating a mushroom to make himself smaller and go inside a tunnel...the party does the same and follow...
+
+### Session 12
+
+While following [[Droki]], [[Zebu]] and [[Grumpy]] find some guards with some bears in cages. They aren't very sneaky the [[Derro]] guards are immediately alerted and release the bears. The bears immediately attack [[Zebu]] besides his best effort of talking with them. He throws the magical rock to [[Grumpy]] which he doesn't catch...
+
+Back at the lake, [[Lurrus Dreambow]] hands over the [[Dawnbringer]] to [[Urimos Tusk]] and the sword is happy to be separated from the [[tentacle rod]]. Scene interrupted by [[Grumpy]] being all bloody rushing in and they run to help [[Zebu]]. They are interrupted by some [[Water Weird]]s. 
+
+A few more battles and tunneling...eventually, there is a letter they find that says
+
+> **“I don’t need your poison anymore. I’ll deal with Werz Saltbaron myself. Bring me an elf blade, one with the swirlies carved on the steel, and I’ll forget you failed me. And I don’t want to see any of your goons near my post. The captain is poking around, and I could use a scapegoat.”**
+
+The alchemist confesses to working with [[Gorglak]] and that he can be bribed. He is killed by the party, [[Urimos Tusk]] learns a few things and the party takes a short rest. 
+
+A few more battles before heading out to the Darklake Docks.
+
+### Session 13
+
+There seems to be a lot of uproar in the city, [[Prince Derendil]] is feeling better but confused about everything that has happened to him. [[Sarith Kzekarit]] never came back...[[Stool]] mentions he has been able to telepathically communicate with [[Sarith Kzekarit]] without spore chat. 
+
+The trouble the party caused in the ghetto is coming back to bite them. The [[Deep King]] has ordered the arrest of [[Errde Blackskull]]. [[Grumpy]] attempts to sneak into the [[Deep King]]'s hold but is unable to. The derro are restless. The party decides to go back into the caves to find the egg. [[Lurrus Dreambow]] and [[Urimos Tusk]] have a level of exhaustion. 
+
+Another big fight in the tunnels, a few went down. The stone that was previously dropped wasn't there anymore. There is more trouble up a head...cultists and derro. 
+
+Glowing green circle in the middle of the room. Something in a cage...
+
+![[ooa04-13.png]]
+
+### Session 14
+
+The party kills off a few [[Quasit]]s as they enter this area. [[Grumpy]] made the first move and started battling 5 derro and a dog. The rest of the party join in to battle, including an [[ettin]] named [[Grula-Munga]]. 
+
+This was a rough battle...but discoveries were made. References to the [[Demogorgon]] are all around. A letter saying the following - 
+
+> Narrak — Need more scrolls! Stonespeaker Hgraam has traps traps traps. But Droki is wily too and very small! I can hear talk, and in talk they say names, and I hear names and write names and give you names so you give me time. But you have to give me more scrolls. Magicky spelly scrolls!
+> 
+> - Droki
+
+The party went to a place where whispers from above can be heard...so they learned a few things. There is a plot against the king. 
+
+Eventually, players went into an area with an obelisk. Dragon egg has been found! [[Pliinki]], a derro servant is seen here. Party killed him and stuffed him into a chest with [[Narrak]] in there as well. 
+
+### Session 15
