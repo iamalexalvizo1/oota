@@ -1,0 +1,7 @@
+This inn is the only establishment in Gracklstugh that accepts non-duergar guests. “Ghohlbrorn” means “bulette” in Dwarvish, and the inn is built inside a small cavern complex beneath the Blade Bazaar at the northern end of the Darklake District. Its halls are cold and damp. A central chamber serves as a dining room, branching out into different small, twisting halls along which the rooms are excavated. It’s dark, cramped, and uncomfortable, but safe and defensible.
+
+#### [](https://www.dndbeyond.com/sources/dnd/oota/gracklstugh#RumorMill)Rumor Mill
+
+The inn’s dining hall gives characters a chance to mingle with non-duergar who are visiting Gracklstugh. Characters seeking information can, with a successful DC 10 Charisma ([Persuasion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) or Intelligence ([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check, find out the following information, or you can simply roleplay their interactions with random patrons.
+
+The general gist of the information is that trade routes out of Gracklstugh have become more dangerous recently. The fauna and more primitive denizens of the Underdark are all riled up about something. Among the tales told by the travelers, second-hand stories about demons attacking isolated settlements are common.

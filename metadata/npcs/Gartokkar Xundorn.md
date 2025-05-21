@@ -1,0 +1,1 @@
+Male duergar Keeper of the Flame with a side quest for the party

@@ -1,0 +1,1 @@
+Corrupt male duergar on duty at the gate where the characters first arrive in Gracklstugh

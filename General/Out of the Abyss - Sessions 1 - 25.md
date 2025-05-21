@@ -383,4 +383,52 @@ The party is now level 4.
 ### Session 10
 
 
+[[Hemeth]] advices the group not to bring [[Asha Vandree]] into [[Gracklstugh]], that will cause issues...as the group sets sell to [[Gracklstugh]]. 
+
+>[!info] Dawnbringer
+>This is a sentient sword...[[Lurrus Dreambow]] is talking to it and is warned not to wield the tentacle rod, as it is evil. 
+
+We get some info from [[Hemeth]] that [[Gracklstugh]] is not very kind to outsiders and is filled with invisible guards...and that the _least_ guarded area are the docks on the east side. [[Hemeth]] tells the group that [[The Ghohlbrorn's Lair]], in the [[Dark Lake District]] is one of the few places where outsiders are somewhat welcome...as well as the [[Blade Bazaar]].
+
+[[Gracklstugh]] is a city mainly populated by [[Duergar]] and a small minority of [[Derro]], which has been a pain point for the city. The [[Deep King]] is the city monarch and the [[Derro]] seem to have an issue with him. 
+
+[[Sarith Kzekarit]] mentions that [[Buppido]] is a derro and [[Stool]] still thinkings that [[Shuushar the Awakened]] is with us...
+
+All of a sudden, the current starts to pick up and [[Asha Vandree]] is thrown overboard. [[Lurrus Dreambow]] fails his attempt to grab her and stumbles on some [[Water Weird]]. [[Grumpy]] and [[Lurrus Dreambow]] easily dispatch of them. 
+
+[[Hemeth]] mentions that there are plenty of these in the area but that something must have triggered them to attack us...
+
+[[Dawnbringer]] senses a change in [[Sarith Kzekarit]]...similar to the aura of the area...
+
+![[ooa04-01.png]]
+
+As the party approaches the city, they are greeted with an immense and overwhelming heat. Hot furnaces and loud clanking all around. [[Hemeth]] drops them off and hands them a map of the city. The party tries to quickly make their way through the dangerous city to the bar, [[The Ghohlbrorn's Lair]]. 
+
+![[ooa04-03.png]]
+
+The party gets there and has a chat with the bar keep, that warns them once again this is one of the only safe areas for them. It will be 100 gold a person to stay. [[Zebu]] starts challenging some of the locals in a drinking contest...which wins him about 500 Gold. They also learn about something called "Grackle-Lung"
+
+>[!info] Grackle-Lung
+>The constant smog in Gracklstugh causes grackle-lung in living, breathing creatures, resulting in persistent, wracking coughs and the spewing of thick, black phlegm. Whenever a living, breathing creature finishes a long rest in Gracklstugh, it must make a DC 11 Constitution saving throw. On each failed save, the creature gains one level of [exhaustion](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition) as its airways become increasingly clogged. A creature that reaches level 6 [exhaustion](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition) dies, as normal.
+>
+>A creature with one or more levels of [exhaustion](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition) brought on by grackle-lung must succeed on a Constitution check to take the [Dash](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DashAction) action. If the check fails, the action cannot be attempted. If the creature attempts to cast a spell with a verbal component, it must succeed on a Constitution check or be unable to complete the spell, causing the spell to fail with no effect. The DC for each check is 10 + the creature’s current [exhaustion](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition) level.
+>
+>If a creature’s [exhaustion](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition) level drops below 1, it no longer suffers the effects of grackle-lung and becomes immune to it for the next week. Duergar and derro are inured to grackle-lung, making Constitution checks against it with advantage. Any spell or effect that cures disease also cures grackle-lung, effectively removing all levels of [exhaustion](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition) brought on by the affliction.
+
+There is a necklace that dangles behind the bar keep with a letter, that [[Urimos Tusk]] attempts and fails to steal. [[Gorglak]] is one of the few that guards that come to arrest [[Urimos Tusk]], and [[Zebu]], and [[Grumpy]]. [[Zebu]] offers beer but he only accepts rare weapons as bribes. They are taken away....
+
+The rest of the party makes their way downstairs only to realize the rest of their companions have been arrested and taken away. [[Lurrus Dreambow]] recognizes that necklaces and the letter is given to him...its from his sister [[Belinda Tremorbow]]. She was here weeks ago...no longer a prisoner and is on her way to [[Blingdenstone]] - a slave center but also, potentially a way back out to the surface. She is traveling alone. 
+
+Back to the arrested group....
+
+As they are making their way through a town, a stone giant seems to be going on a rampage in the middle of the city...[[Zebu]] is able to help by providing enough time for another stone giant to come and get things under control. He mentions that he went a bit insane after communicating with a stone in [[Cairngorm Cavern]]. The giant thanks him and suggests he goes to visit the cavern before leaving. 
+
+As [[Lurrus Dreambow]] and crew makes their way to the hold, he notices some floppy ears moving quickly through the public...hidden. They meet up with [[Errde Blackskull]], captain of the stone guard. Gives us some info about [[Droki]] and how they have been after him. In exchange for helping her, she offers safe passage out of the city since she also suspects that some of her guards have recently become corrupt...She gives everyone badges that will help them move through the city relatively safely...
+
+Some shopping gets done.
+
+Back at the bar...[[Gartokkar Xundorn]] awaits the party...
+
+
+### Session 11
 

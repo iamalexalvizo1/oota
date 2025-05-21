@@ -1,0 +1,3 @@
+A long tunnel opens in Southfurrow District, extending several hundred feet and into the home of the stone giants of Clan Cairngorm. The tribe is named after the ancient oath of fealty their ancestors swore to the bearers of the Cairngorm Crown, the traditional regalia of Deepkingdom monarchs. The giants lead simple, uncomplicated lives, and their dwellings reflect this.
+
+The stone giants value their privacy, and duergar are normally not allowed inside Cairngorm Cavern. An exception is made for the Deepking, who holds meetings here with the giants’ leader, Stonespeaker Hgraam, when necessary.

@@ -1,0 +1,5 @@
+The Darklake District gives an illusion of openness. The streets are relatively wide to allow for merchant carts and wagons to pass, and the buildings aren’t as crowded around stalagmites as in the southern districts. Openness doesn’t mean welcoming, however. The duergar who ply their trades here are wary of all the foreigners confined by law to this part of the city.
+
+>[!info]
+>A wave of heat slams against you as an acrid smog rises to choke the air out of your lungs. The Darklake spreads out beyond a jumble of buildings and streets, reflecting the lights of countless fires burning across the city within hollowed-out columns and stalagmites.
+>Though the streets are crowded, you move easily within the surging throng of buyers, merchants, and slaves. You aren’t the only outsiders here, as you spy drow, svirfneblin, derro, orcs, and other races in the crowds. The shouting of people blends with the sound of distant hammering to create a constant, distracting din.
