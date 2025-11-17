@@ -494,4 +494,127 @@ The party went to a place where whispers from above can be heard...so they learn
 
 Eventually, players went into an area with an obelisk. Dragon egg has been found! [[Pliinki]], a derro servant is seen here. Party killed him and stuffed him into a chest with [[Narrak]] in there as well. 
 
-### Session 15
+### Session 15 - 17
+
+The party begins in the chamber where **Pliinki** was stuffed into a chest with **Narrak**. After a round of Jeopardy—won by **Adrian**—they return to the **obelisk** to confront the **spectator**. A grumpy gnome disguised himself as Pliinki to distract it but ended up **paralyzed**.
+
+**Zebu** carries the **dragon egg** during this time.
+
+### **Chaos in Gracklstugh**
+
+A loud mob gathers near the **Deepking’s Hold**. Zebu and **Urimos** investigate and discover **Deepking Horgar Steelshadow V** is being mentally controlled by the **succubus Shal**. They manage to save **Blackskull** from execution.
+
+Suddenly, **Themberchaud**, fed up with waiting, begins **burning the city**. The party rushes to recover **Prince Derendil** and **Stool**. **Sarith** disappears.  
+The group escapes Gracklstugh; Blackskull and **Hgraam** return to aid their people.
+
+Outside the city, they discover a mysterious **symbol**.
+
+![[image (1).png | 300]]
+
+Zebu stays outside while the others enter a structure containing **two shadow demons**. The party defeats them and manages a **long rest**.
+
+During the long travel stretch (random encounters, hook horror hunt, etc.):
+
+- **Balerion**, the baby dragon, hatches from the egg.
+    
+- Encounter with **five derro** and **Buppido**.
+    
+    - They defeat the derro.
+        
+    - Buppido is captured, toyed with, and eventually **dismembered**; his remains are tied to Balerion as the group continues.
+        
+- They find a crevice to hide and rest.
+    
+- The party dreams of the **Fungi Queen**.
+    
+- **Ilvara** appears, trying to reclaim her weapon; she **summons a demon**, nearly killing everyone.
+    
+- The group rides a **carrion crawler** at one point.
+    
+- They fight a **chasme** before reaching **Neverlight Grove**.
+    
+- They participate in the **Hook Horror Hunt**.
+    
+- They battle an **Otyugh** in a fungal patch.
+
+The party finally arrives at **Neverlight Grove**.
+
+### Session 18 - 19
+
+![[image.jpeg]]
+
+![[Zuggtmoy]]
+
+Sariths head explodes
+
+### Session 20
+
+Oozing temple
+
+### Session 21-25
+
+![[blingdenstone.jpeg]]
+
+The success of any plan to rid Blingdenstone of the Pudding King and his minions is more likely if the characters complete the following tasks:
+
+- Convince Dorbo Diggermattock that the Goldwhisker clan deserves to live in Blingdenstone.
+- Find Entémoch’s Boon.
+- Cleanse the Steadfast Stone (area 22).
+- Travel to Neverlight Grove and harvest a wagon load of ingredients among its fungal pools and fields.
+- Escort a salt shipment to Gracklstugh to trade for duergar-made weapons.
+- Complete one or both tasks set forth by the ghost of Burrow Warden Jadger (see area 8).
+
+Let the players come up with other ideas that might help, such as asking for aid from the stone giants of Gracklstugh or stealing magic weapons from the drow. Some quests might take time to complete, since they require travel through the Underdark.
+
+See the “Benefits for Completing Tasks” sidebar for benefits that the characters gain during the Battle of Blingdenstone if they complete certain tasks.
+
+so far….
+
+they know there is an ooze problem
+
+maybe checkout the speaking stones (area 13)
+
+### **Elemental Vagabonds**
+
+A [**dust mephit**](https://www.dndbeyond.com/monsters/16851-dust-mephit) guides an [**earth elemental**](https://www.dndbeyond.com/monsters/16853-earth-elemental) through the caverns and passages of Blingdenstone. If approached peacefully, they can point the way to Entémoch’s Boon (see “[Blingdenstone Outskirts](https://www.dndbeyond.com/compendium/adventures/oota/blingdenstone#BlingdenstoneOutskirts)” later in this chapter).
+
+Nomi Pathshutter may have quests for finding this on top of exploring rockblight.
+
+Ogrémoch’s Bane - ghost that haunts everyone
+
+random encounter to point to ogremochs bane: Once part of a expedition from Menzoberranzan, these drow were [**petrified**](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Petrified) by a medusa and later animated by Ogrémoch’s Bane (see “[Settlers, Squatters, and Invaders](https://www.dndbeyond.com/compendium/adventures/oota/blingdenstone#SettlersSquattersandInvaders)” later in this chapter). They have the statistics of [**animated armor**](https://www.dndbeyond.com/monsters/16786-animated-armor), except they are elementals instead of constructs.
+
+clan gold whisker can also point to this ^
+
+
+currently in [Rockblight](https://www.dndbeyond.com/sources/oota/blingdenstone#Rockblight). here is a map:
+
+![[rockblight.png]]
+
+Specifically, they are in area 18…[https://www.dndbeyond.com/sources/oota/blingdenstone#18Overlook](https://www.dndbeyond.com/sources/oota/blingdenstone#18Overlook)
+
+The crystals here can be used as countermeasures against Neheedra’s gaze. A creature with one hand free can hold a crystal to its eyes, gaining advantage on the Constitution saving throw made against Neheedra’s gaze. However, the creature makes attack rolls with disadvantage.
+
+they just fought off a couple of gargoyles and an earth elemental. better map:
+
+![[betterMap.jpeg]]
+
+![[puddingCourt.png]]
+
+rewards:
+
+from king: [https://www.dndbeyond.com/sources/oota/blingdenstone#Development7](https://www.dndbeyond.com/sources/oota/blingdenstone#Development7)
+
+from royal oozes: [https://www.dndbeyond.com/sources/oota/blingdenstone#Treasure5](https://www.dndbeyond.com/sources/oota/blingdenstone#Treasure5)
+
+visions: [https://www.dndbeyond.com/sources/oota/the-fetid-wedding](https://www.dndbeyond.com/sources/oota/the-fetid-wedding)
+
+escaping the underdark: [https://www.dndbeyond.com/sources/oota/escape-from-the-underdark](https://www.dndbeyond.com/sources/oota/escape-from-the-underdark)
+
+orcus: 
+
+![[21-006.orcus.png]]
+
+Evermoors or the Lurkwood
+
+[https://media.wizards.com/2015/images/dnd/resources/Sword-Coast-Map_MedRes.jpg](https://media.wizards.com/2015/images/dnd/resources/Sword-Coast-Map_MedRes.jpg)
