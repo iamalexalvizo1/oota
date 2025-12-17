@@ -3,3 +3,5 @@ A male deep gnome [spy](https://www.dndbeyond.com/monsters/17021-spy), Jimjar i
 Jimjar is always true to his word, and he manages to keep exact track of his debits and credits in his head, paying up on his bets (or demanding payment) as soon as possible. He’s not above pocketing a little extra coin when no one is watching, and he has an amazing ability to secret significant wealth on his person.
 
 Jimjar feels as though there’s something odd about the twins Topsy and Turvy, but he keeps his opinion to himself unless asked. He does his best to get along with everyone, although some find his gregariousness and constant wagers grating.
+
+https://forgottenrealms.fandom.com/wiki/Garl_Glittergold

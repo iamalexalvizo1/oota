@@ -1,0 +1,12 @@
+The representative of the Lords’ Alliance is a noble of Tethyrian and moon elf heritage, his youthful looks belying his actual age and experience. Although he hails from Waterdeep, Lord Eravien often travels to other alliance settlements. He’s a charming and sly courtier, able to immediately size up any social situation, but his fondness for socializing often distracts him from what’s important. As a result, Eravien has heard relatively little of the recent events in the Underdark, and he is initially unconvinced of the importance of the party’s mission.
+
+If they can convince him otherwise, Lord Eravien arranges for some agents of the Lords’ Alliance to join the expedition:
+
+- Five dwarf guards from the alliance city of Mirabar. Their names are Nazrok Blueaxe, Kirsil Mantlehorn, Anzar the Brazen, Gargathine Truesilver, and Splinter Darkmorn.
+- Three human spies from the alliance city of Yartar. Their names are Farryl Kilmander, Zilna Oakshadow, and Hilvius Haever.
+
+If the party accepts these NPCs into its ranks, make five photocopies of the [Lords’ Alliance Guard](https://www.dndbeyond.com/monsters/27722-lords-alliance-guard) and three photocopies of the [Lords’ Alliance Spy](https://www.dndbeyond.com/monsters/27724-lords-alliance-spy) stat cards at the end of this chapter. If you don’t want to control these NPCs yourself, you can distribute their stat cards among the players and let them run the NPCs.
+
+Eravien knows that the Lords’ Alliance has a deep-cover operative in the Underdark. Khelessa Draga, a high elf from Silverymoon, was sent to spy on the drow over a year ago. Eravien knows that Khelessa uses magic to disguise herself as a dark elf and warns the characters not to attack any drow they encounter until they can confirm the target isn’t Khelessa in disguise. The Lords’ Alliance lost contact with Khelessa months ago, so Eravien doesn’t know where she is.
+
+Should Lord Eravien come under attack, use the [noble](https://www.dndbeyond.com/monsters/16966-noble) statistics in the Monster Manual to represent him. He travels with three servants (strongheart halfling [commoners](https://www.dndbeyond.com/monsters/16829-commoner)) and three well-paid human [guards](https://www.dndbeyond.com/monsters/16915-guard).

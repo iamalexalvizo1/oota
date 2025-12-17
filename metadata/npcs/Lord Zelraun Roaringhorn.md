@@ -1,0 +1,9 @@
+Lord Roaringhorn hails from a Waterdhavian noble family, with all the self-assurance and pride that entails. He pursued his talent for the arcane arts, but never forgot his roots or lost his fondness for spending his family’s considerable income on the finer things in life. He’s a confident sort who likes to gamble. Winning over Roaringhorn requires a willingness to dine, drink, and potentially game with him.
+
+Lord Roaringhorn is accompanied by a shield guardian and holds its control amulet. The shield guardian currently has a [lightning bolt](https://www.dndbeyond.com/spells/2167-lightning-bolt) spell stored within it. A character can gain use of the shield guardian by winning a game of chess against the Harper wizard. Zelraun suggests a match after dinner.
+
+A chess match takes 1 hour, and the outcome is determined by a best-of-three Intelligence check contest. Zelraun’s experience gives him a +9 modifier to his Intelligence checks. Zelraun loans the shield guardian and its control amulet to the first character to beat him at the game. If Zelraun proves unbeatable, you can decide that Zelraun, ever the gracious winner, loans the shield guardian and amulet to the party on the provision that the characters vow to redeem themselves with a rematch upon their return from the Underdark.
+
+If a character obtains Zelraun’s shield guardian and control amulet, photocopy the [Shield Guardian](https://www.dndbeyond.com/monsters/17012-shield-guardian) stat card at the end of this chapter and give it to the player whose character has the amulet. If the amulet changes hands, so too does the shield guardian and its stat card.
+
+If the characters attack Zelraun, use the [archmage](https://www.dndbeyond.com/monsters/16789-archmage) statistics in the Monster Manual to represent him.

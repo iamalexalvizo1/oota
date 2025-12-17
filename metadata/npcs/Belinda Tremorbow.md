@@ -8,3 +8,5 @@ deceased:
 ---
 - sister of [[Lurrus Dreambow]]
 - member of the [[Society of Brilliance]]
+
+![[Belinda.png|200]]
